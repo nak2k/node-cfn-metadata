@@ -1,0 +1,30 @@
+{
+  "name": "cfn-metadata",
+  "version": "0.0.1",
+  "description": "Retrieve CloudFormation metadata for current EC2 instance",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-cfn-metadata/issues"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1.21",
+    "ec2-cfn-tags": "0.0.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-cfn-metadata",
+  "keywords": [
+    "aws",
+    "cloudformation"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nak2k/node-cfn-metadata.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
