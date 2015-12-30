@@ -1,6 +1,6 @@
 {
   "name": "cfn-metadata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Retrieve CloudFormation metadata for current EC2 instance",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
