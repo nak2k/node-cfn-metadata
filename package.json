@@ -7,7 +7,7 @@
     "url": "https://github.com/nak2k/node-cfn-metadata/issues"
   },
   "dependencies": {
-    "aws-sdk": "^2.2.33",
+    "aws-sdk": "^2.2.34",
     "ec2-cfn-tags": "0.0.1"
   },
   "devDependencies": {},
